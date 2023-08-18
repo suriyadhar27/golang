@@ -1,0 +1,26 @@
+mode: set
+main/myapp/main.go:11.45,15.2 2 1
+main/myapp/main.go:24.38,29.2 3 1
+main/myapp/main.go:31.63,35.2 2 1
+main/myapp/main.go:37.64,39.16 2 1
+main/myapp/main.go:39.16,42.3 2 0
+main/myapp/main.go:44.2,50.68 6 1
+main/myapp/main.go:50.68,53.3 2 1
+main/myapp/main.go:56.2,56.26 1 1
+main/myapp/main.go:56.26,59.3 2 0
+main/myapp/main.go:62.2,63.30 2 1
+main/myapp/main.go:63.30,66.3 2 0
+main/myapp/main.go:68.2,69.48 2 1
+main/myapp/main.go:73.60,74.18 1 1
+main/myapp/main.go:75.22,76.25 1 1
+main/myapp/main.go:77.23,78.26 1 0
+main/myapp/main.go:79.10,80.67 1 0
+main/myapp/main.go:86.50,88.16 2 1
+main/myapp/main.go:88.16,90.3 1 0
+main/myapp/main.go:91.2,92.16 2 1
+main/myapp/main.go:92.16,94.3 1 0
+main/myapp/main.go:95.2,95.41 1 1
+main/myapp/main.go:95.41,97.3 1 1
+main/myapp/main.go:98.2,98.12 1 1
+main/myapp/main.go:101.68,103.14 2 1
+main/myapp/main.go:103.14,106.3 2 1
